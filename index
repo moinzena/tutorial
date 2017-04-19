@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      The Apothecary
+    </title>
+    <meta charset='utf-8'>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <meta content='http://carrillo.co.uk' property='og:url'>
+    <meta content='website' property='og:type'>
+    <meta content="Estie's Portfolio" property='og:title'>
+    <meta content='Head of design at Flingtheworld.com ' property='og:description'>
+    <meta content='Head of design at Flingtheworld.com ' name='description'>
+    <meta content='http://carrillo.co.uk/images/hero-background-1440.jpg' property='og:image'>
+    <link href='/favicons/apple-touch-icon-152x152-precomposed.png' rel='apple-touch-icon' sizes='152x152'>
+    <link href='/favicons/apple-touch-icon-144x144-precomposed.png' rel='apple-touch-icon' sizes='144x144'>
+    <link href='/favicons/apple-touch-icon-120x120-precomposed.png' rel='apple-touch-icon' sizes='120x120'>
+    <link href='/favicons/apple-touch-icon-114x114-precomposed.png' rel='apple-touch-icon' sizes='114x114'>
+    <link href='/favicons/apple-touch-icon-76x76-precomposed.png' rel='apple-touch-icon' sizes='76x76'>
+    <link href='/favicons/apple-touch-icon-72x72-precomposed.png' rel='apple-touch-icon' sizes='72x72'>
+    <link href='/favicons/apple-touch-icon-60x60-precomposed.png' rel='apple-touch-icon' sizes='60x60'>
+    <link href='/favicons/apple-touch-icon-57x57-precomposed.png' rel='apple-touch-icon' sizes='57x57'>
+    <link href='/favicons/apple-touch-icon-precomposed.png' rel='apple-touch-icon'>
+    <link href='/favicons/favicon.ico' rel='icon' type='image/ico'>
+    <link href='/favicons/favicon-152.png' rel='icon'>
+    <link href="/stylesheets/normalize.css" rel="stylesheet" type="text/css" /><link href="all.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/animate.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body class='index'>
+    <div id='navigation'>
+      <span>Get in touch</span>
+      <button>
+        <a href='mailto:estie.carrillo@gmail.com?subject=Yo%20Estie&amp;body=%22Good%20artists%20borrow%2C%20great%20artists%20steal%22%0A%0A%E2%80%94%20Estie%20Carrillo'>
+          <img src='http://d33wubrfki0l68.cloudfront.net/0c354931796947e356ef307ca09c805daf1f691d/bf9bc/images/svg_plus.svg'>
+        </a>
+      </button>
+    </div>
+    <div id='hero'>
+      <h1 class='wow fadeInDown' data-wow-delay='1s'>
+        <span>the</span>
+        apothecary
+      </h1>
+      <h2 class='wow fadeInUp' data-wow-delay='1s'>
+        Estie's design shop
+      </h2>
+      <img alt="Estie's design shop" src='http://d33wubrfki0l68.cloudfront.net/cc61fc18a668a6f7faa15dce87897ad3fa24b42b/2f9e2/images/carrillo.png'>
+      <h3>Welcome all</h3>
+      <div class='spacer'></div>
+    </div>
+    <div id='introduction'>
+      <h1>
+        <span>brief</span>
+        introduction
+      </h1>
+      <div class='spacer'></div>
+      <div class='portrait'></div>
+      <div class='biography'>
+        <p>Estie was born on a Saturday. Interaction Designer from Bogota who, motivated by his profound love of design, moved to London 7 years ago and ever since arriving has had the pleasure to craft digital products for mass consumption.</p>
+        <p>Estie has been leading design at Fling for the past 2 years where he has had the opportunity to found the company's first design team, injecting design and usability foundations into the core production line. Estie makes crucial product decisions for the use of millions of users every day. He saw Fling grow from 0 to 5 million users.</p>
+      </div>
+      <div class='biography desktop'>
+        <p>Estie was born on a Saturday.</p>
+        <p>Interaction Designer from Bogota who, motivated by his profound love of design, moved to London 7 years ago and ever since arriving has had the pleasure to craft digital products for mass consumption.</p>
+        <p>Estie has been leading design at Fling for the past 2 years where he has had the opportunity to found the company's first design team, injecting design and usability foundations into the core production line. Estie makes crucial product decisions for the use of millions of users every day. He saw Fling grow from 0 to 5 million users.</p>
+        <p>Estie worked in design projects in the past for, Google, iTunes, Youtube, Sony, Xbox, Unii, Wikia, XS &amp; Parcelgenie.</p>
+      </div>
+    </div>
+    <div id='projects'>
+      <h1>
+        <span>recent</span>
+        projects
+      </h1>
+      <div class='spacer'></div>
+      <div id='fling'>
+        <div class='background'></div>
+        <div class='fadeInUp logo wow'></div>
+        <div class='app fadeIn wow'></div>
+        <div class='description fadeInUp wow'>
+          <p>
+            Fling grew from 0 to 5 Million users in 10 months.
+            The social network where users can share photos & videos with the rest of the world, get followers, react to Flings and chat is available for both iOS and Android.
+          </p>
+        </div>
+        <div class='credits fadeInUp wow'>
+          <p>Creative Director: Estie Carrillo</p>
+          <p>UI & UX Design: Estie Carrillo, Henry Chung Lin</p>
+          <p>Motion Design: Pierre Joshua </p>
+          <p>Branding and Illustrations: Estie Carrillo, Steve Roberts</p>
+        </div>
+        <div class='download fadeInUp wow'>
+          <a class='casestudy' href='case-studies/fling'>
+            Explore Case Study
+            <span>&rsaquo;</span>
+          </a>
+        </div>
+        <div class='quote'>
+          <h2>"Millions of users and a lot of cash is great, but it doesn’t matter unless your app is cool. Luckily, Fling has a remarkably well-designed app that’s a blast to use"</h2>
+          <h3>- TechCrunch, October 2015</h3>
+        </div>
+        <div class='laptop'>
+          <h2 class='wow fadeInUp'>
+            5 million <br /> app downloads strong
+          </h2>
+          <p class='wow fadeInUp'>
+            With the rapid and steady growth of Fling a web that could handle millions of visits at the same time and also efficiently explained the value proposition of the app was needed. Fling on the web was born.
+            For more info visit:
+            <a href='http://www.flingtheworld.com' target='_blank'>
+              www.flingtheworld.com
+            </a>
+          </p>
+          <div class='fadeInUp press wow'>
+            <a class='dailymail' href='http://www.dailymail.co.uk/sciencetech/article-2713065/The-message-bottle-gets-21st-century-makeover-App-sends-photos-videos-50-random-people-globe.html' target='_blank'></a>
+            <a class='techcrunch' href='http://techcrunch.com/2015/10/29/moment-sharing-app-fling-adds-reactions-to-promote-global-conversations-tackles-user-safety/' target='_blank'></a>
+            <a class='yahoo' href='http://finance.yahoo.com/news/photo-sharing-app-fling-rallied-145853752.html' target='_blank'></a>
+            <a class='idigitaltimes' href='http://www.idigitaltimes.com/fling-and-meow-chat-two-new-messaging-apps-connect-you-strangers-376382' target='_blank'></a>
+            <a class='businessinsider' href='http://www.techinsider.io/why-fling-got-banned-from-the-apple-app-store-2015-8' target='_blank'></a>
+          </div>
+        </div>
+      </div>
+      <div id='unii'>
+        <div class='fadeInUp logo wow'></div>
+        <div class='app fadeInUp wow'></div>
+        <div class='description fadeInUp wow'>
+          <p>A Student Only Social Network. Unii is an app to discover what others are talking about at your university, see your posts going viral and meet other students in higher education.</p>
+        </div>
+        <div class='credits fadeInUp wow'>
+          <p>Creative Director: Estie Carrillo</p>
+          <p>UI & UX Design: Estie Carrillo, Luca Artorelli</p>
+          <p>Motion Design: Pierre Joshua</p>
+          <p>  Branding and Illustrations: Estie Carrillo</p>
+        </div>
+        <div class='download fadeInUp wow'>
+          <a class='casestudy inactive' href='#'>Case Study Coming Soon</a>
+        </div>
+        <div class='quote'>
+          <h2>"If you’re a student in the UK and haven’t heard of Unii, let me introduce you! It’s like Twitter but only for your campus with hilarious updates from other students"</h2>
+          <h3>- Buzzfeed, November 2014</h3>
+        </div>
+        <div class='laptop'>
+          <h2 class='wow fadeInUp'>
+            Instant access to real  campus action
+          </h2>
+          <p class='wow fadeInUp'>
+            As well as having an Android and iPhone app, Unii also works beautifully on the web, with a fully responsive web-app that Students can save to their phones. Unii’s web intelligently recognises if it’s being accessed via mobile or web, displaying either a sign up page or a “download the app” web.
+          </p>
+          <div class='fadeInUp press wow'>
+            <a class='buzzfeed' href='http://www.buzzfeed.com/fenellah/5-times-the-unii-app-nailed-student-life-148lx' target='_blank'></a>
+            <a class='techcrunch' href='http://techcrunch.com/2013/11/01/unii/' target='_blank'></a>
+            <a class='huffington' href='http://www.huffingtonpost.co.uk/2013/12/18/all-students-want-for-christmas-is-love-or-a-ps4_n_4464387.html' target='_blank'></a>
+          </div>
+        </div>
+      </div>
+      <div id='nrdyio'>
+        <div class='fadeInUp logo wow'></div>
+        <div class='app fadeIn wow' data-wow-duration='2s'></div>
+        <div class='description fadeInUp wow'>
+          <p>
+            Nrdy is a side project that was born after seeing the need for a better experience when trying to buy a gift for a friend that who’s into nerd swag. Nrdy curates the best nerdy products from Amazon UK and redirects users to it. Visit the web:
+          </p>
+        </div>
+        <div class='credits fadeInUp wow'>
+          <p>UI & UX Design: Estie Carrillo </p>
+          <p>Branding: Estie Carrillo</p>
+          <p>Development & Backend: James Weaver</p>
+        </div>
+        <div class='download fadeInUp wow'>
+          <a class='casestudy inactive' href='#'>Case Study Coming Soon</a>
+        </div>
+        <div class='desktop'>
+          <h2 class='wow fadeInUp'>
+            Responsive experience across desktop and mobile
+          </h2>
+          <p class='wow fadeInUp'>
+            Nrdy is fully responsive on both desktop and mobile, whether users want to explore the web at home or just buy a quick something for that special nerdy in their life, we’re there to help. Nrdy’s beatiful design encourages clarity and ease to explore.
+          </p>
+        </div>
+      </div>
+      <div id='selfie'>
+        <div class='fadeInUp logo wow'></div>
+        <div class='app fadeIn wow' data-wow-duration='2s'></div>
+        <div class='description fadeInUp wow'>
+          <p>Ever seen one of those “Selfie a day” videos? Where people take 1 photo a day for years and then put them on Youtube? We set out to create an app that would make the process simpler and straight forward by using clean and beautiful intuitive design.</p>
+        </div>
+        <div class='credits fadeInUp wow'>
+          <p>UI & UX Design: Estie Carrillo</p>
+          <p> Branding: Estie Carrillo</p>
+          <p>Development & Backend: Jacek Olszewski</p>
+        </div>
+        <div class='download fadeInUp wow'>
+          <a class='casestudy inactive' href='#'>Case Study Coming Soon</a>
+        </div>
+      </div>
+    </div>
+    <div id='footer'>
+      <h2>Thanks for visiting</h2>
+      <h1>
+        <span>the</span>
+        apothecary
+      </h1>
+      <img alt="Estie's design shop" src='http://d33wubrfki0l68.cloudfront.net/cc61fc18a668a6f7faa15dce87897ad3fa24b42b/2f9e2/images/carrillo.png'>
+      <h3>Made in London</h3>
+      <button class='share'>
+        <a href='mailto:?subject=Estie%20Carrillo%27s%20portfolio&amp;body=Check%20out%20this%20kick%20arse%20portfolio%20I%27ve%20just%20bumped%20into%3A%20http%3A%2F%2Fwww.carrillo.co.uk%0A%0AContact%20Estie%3A%0A%0ATwitter%3A%20https%3A%2F%2Ftwitter.com%2Festiecarrillo%0A%0ADribbble%3A%20https%3A%2F%2Fdribbble.com%2Festiecarrillo%0A%0AMedium%3A%20https%3A%2F%2Fmedium.com%2F%40estiecarrillo%0A%0AEmail%3A%20Estie.carrillo%40gmail.com%0A%0AHave%20a%20nice%20day.'>Share</a>
+      </button>
+      <ul>
+        <li>
+          <a href='https://twitter.com/estiecarrillo' target='_blank'>Twitter</a>
+        </li>
+        <li>
+          <a href='https://dribbble.com/estiecarrillo' target='_blank'>Dribbble</a>
+        </li>
+        <li>
+          <a href='https://medium.com/@estiecarrillo' target='_blank'>Medium</a>
+        </li>
+      </ul>
+      <p>Get in touch</p>
+      <button class='plus'>
+        <a href='mailto:estie.carrillo@gmail.com?subject=Yo%20Estie&amp;body=%22Good%20artists%20borrow%2C%20great%20artists%20steal%22%0A%0A%E2%80%94%20Estie%20Carrillo'>
+          <img src='http://d33wubrfki0l68.cloudfront.net/0c354931796947e356ef307ca09c805daf1f691d/bf9bc/images/svg_plus.svg'>
+        </a>
+      </button>
+    </div>
+    <div id='loading'>
+      <div class='container'>
+        <div class='inner'></div>
+        <div class='pulse'></div>
+      </div>
+    </div>
+  </body>
+  <script src="/javascripts/all.js" type="text/javascript"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-73440534-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <noscript>
+    <style>#Loading{display:none !important;}</style>
+  </noscript>
+</html>
